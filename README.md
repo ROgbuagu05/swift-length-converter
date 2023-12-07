@@ -16,7 +16,7 @@ Live Demo <https://rogbuagu05.github.io/swift-length-converter/>
 
 Project Blog <https://www.linkedin.com/pulse/swift-length-converter-chizurum-richard-ogbuagu-g60gf%3FtrackingId=I4XXBdSle9ejIkCePK2ryA%253D%253D/?trackingId=I4XXBdSle9ejIkCePK2ryA%3D%3D>
 
-Author Ogbuagu C. Richard || <https://www.linkedin.com/in/chizurum-richard-ogbuagu-18b69a150/>
+Author: Ogbuagu C. Richard || <https://www.linkedin.com/in/chizurum-richard-ogbuagu-18b69a150/>
 
 Features
     Convert between multiple units of length (meters, kilometers, miles, feet, inches)
