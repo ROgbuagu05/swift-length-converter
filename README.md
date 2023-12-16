@@ -18,7 +18,7 @@ Project Blog <https://www.linkedin.com/pulse/swift-length-converter-chizurum-ric
 
 Author: Ogbuagu C. Richard || <https://www.linkedin.com/in/chizurum-richard-ogbuagu-18b69a150/>
 
-Features
+Features:
     Convert between multiple units of length (meters, kilometers, miles, feet, inches)
     User-friendly interface
     Clear and concise output
@@ -29,10 +29,10 @@ Technologies
     CSS: for styling the web page
     JavaScript: for adding interactivity to the web page
 
-Installation
+Installation:
     This is a web-based application and requires no installation. Simply visit the live demo link above to access the converter.
 
-Usage
+Usage:
     1. Visit the live demo site.
     2. Enter the length you want to convert in the input field.
     3. Select the input unit from the drop-down menu.
